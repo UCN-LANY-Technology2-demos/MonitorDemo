@@ -13,7 +13,7 @@ public class Program {
 	public static void main(String[] args) {
 
 		// Circular buffer demo
-		//circularBufferDemo();
+//		circularBufferDemo();
 		
 		// Reader/writer demo
 		readerWriterDemo();
